@@ -9,4 +9,5 @@ Installation:
 In a terminal, execute: sh install.sh - 
 Installation maybe download some dependencies! - 
 Uninstallation:
-In a terminal, execute: sh uninstall.sh
+In a terminal, execute: sh uninstall.sh - 
+For using, in a terminal, type: txt2pdf [ENTER]
