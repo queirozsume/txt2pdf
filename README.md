@@ -10,5 +10,5 @@ In a terminal, execute: sh install.sh -
 Installation maybe download some dependencies! - 
 Uninstallation:
 In a terminal, execute: sh uninstall.sh - 
-For using, in a terminal, type: txt2pdf [ENTER]
-After that, type the text file name, without the extension [ENTER]
+For using, in a terminal, type: txt2pdf [ENTER].
+After that, type the text file name, without the extension [ENTER].
